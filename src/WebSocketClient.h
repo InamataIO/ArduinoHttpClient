@@ -6,7 +6,7 @@
 
 #include <Arduino.h>
 
-#include "HttpClient.h"
+#include "Http_Client.h"
 
 #ifndef WS_TX_BUFFER_SIZE
   #define WS_TX_BUFFER_SIZE 128
